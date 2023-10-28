@@ -1,0 +1,29 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (Pong.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+C:\Users\jakey\Desktop\Programming stuff\Sierpiński triangle\Pong\Main.cpp(73,101): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jakey\Desktop\Programming stuff\Sierpiński triangle\Pong\Main.cpp(73,64): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jakey\Desktop\Programming stuff\Sierpiński triangle\Pong\Main.cpp(76,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\jakey\Desktop\Programming stuff\Sierpiński triangle\Pong\Main.cpp(78,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jakey\Desktop\Programming stuff\Sierpiński triangle\Pong\Main.cpp(79,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+C:\Users\jakey\Desktop\Programming stuff\Sierpiński triangle\Pong\Main.cpp(48): warning C4715: 'calculateNewPosition': not all control paths return a value
+  All 192 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Pong.vcxproj -> C:\Users\jakey\Desktop\Programming stuff\Sierpiński triangle\x64\Release\Sierpiński triangle.exe
